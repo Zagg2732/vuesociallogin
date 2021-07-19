@@ -1,3 +1,13 @@
+#Vue.js 카카오/네이버/구글 로그인 API로 로그인하기
+
+## Config.yml
+- googleIdKey
+- kakaoIdKey
+- naverClientId 
+- naverClientSecret 
+
+해당 파일들은 src/config.yml 파일로 따로 저장해서 사용했습니다
+
 # vuesociallogin
 
 ## Project setup
